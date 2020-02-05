@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title></title>
+</head>
+<body>
+ <table border='1' cellpadding='5'>
+          <tr id="heading">
+                <th style="background-color: skyblue">Day</th>
+                <th style="background-color: skyblue">9:00 to 9:55</th>
+                <th style="background-color: skyblue">10:00 to 10:55</th>
+                <th style="background-color: skyblue">10:55 to 11:15</th>
+                <th style="background-color: skyblue">11:15 to 12:10</th>
+                <th style="background-color: skyblue">12:10 to 01:05</th>
+                <th style="background-color: skyblue">01:05 to 02:00</th>
+                <th style="background-color: skyblue">02:05 to 03:00</th>
+                <th style="background-color: skyblue">03:05 to 04:00</th>
+          </tr>
+          <tr>  
+                <td style="background-color: skyblue">Monday</td>
+                <td>Dig Ent</td>
+                <td style="background-color: yellow">Library</td>
+                <td rowspan='6' style="background-color: coral">Short Break</td>
+                <td>ML</td>
+                <td rowspan='2' style="background-color: coral">Lunch Break</td>
+                <td>OOAD</td>
+                <td colspan='2'>IT Lab</td>
+         </tr>
+         <tr>
+                <td style="background-color: skyblue">Tuesday</td>
+                <td colspan='2'>NP Lab</td>
+                <td>Dig Ent</td>
+                <td>OOAD</td>
+                <td colspan='2'>SST</td>
+         </tr>
+         <tr>  
+                <td style="background-color: skyblue">Wednesday</td>
+                <td>GTC</td>
+                <td style="background-color: yellow">CCH</td>
+                <td colspan='2'>IT Lab</td>
+                <td style="background-color: coral">Lunch Break</td>
+                <td>OOAD</td>
+                <td>AT</td>
+         </tr>
+         <tr>  
+                <td style="background-color: skyblue">Thursday</td>
+                <td colspan='2'>NP Lab</td>
+                <td>ML</td>
+                <td rowspan='2' style="background-color: coral">Lunch Break</td>
+                <td>OOAD</td>
+                <td colspan='2'>SST</td>
+         </tr>
+         <tr>  
+                <td style="background-color: skyblue">Friday</td>
+                <td colspan='2'>AT</td>
+                <td>ML</td>
+                <td>GTC</td>
+                <td colspan='2'>SST</td>
+         </tr>

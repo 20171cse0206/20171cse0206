@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title></title>
+</head>
+<body>
+<div id="header">
+<p align="center" id="name">G.Gagan</p>
+         <a href="mailto:gaganoctane@gmail.com" target="_blank"><p id="email">gaganoctane@gmail.com</p></a>
+         <p align="right" id="contact">Contact : +91 9880989669</p>
+     </div>
+<hr></hr>
+     <div class="left">
+     </div>
+     <div class="right">
+            <h3>Carreer Objective</h3>
+            <p>I would like to present my skills and work hard for the company i represent</p>
+
+            <h3>Professional Experience</h3>
+            <p>Worked as an intern at IBM Pvt Ltd for 2 months</p>
+         
+            <h3>Educational Qualifications</h3>
+	    <table before='1' cellpadding='5' cellpadding='5'>
+            <img src="CosmicBeam.jpg"> 
+                <tr id="heading">
+                    <td>Qualification</td>
+                    <td>Board</td>
+                    <td>Percentage / CGPA </td>
+                    <td>Year</td>
+                </tr>
+                <tr>
+                    <td>S.S.C</td>
+                    <td>Bangalore State Board</td>
+                    <td>9.2</td>
+                    <td>2015</td>
+                </tr>
+                <tr>
+                    <td>M.P.C</td>
+                    <td>Bangalore State Board</td>
+                    <td>96.7%</td>
+                    <td>2017</td>
+                </tr>
+                <tr>
+                    <td>B.tech CSE(Computer Science and Engineering)</td>
+                    <td>Presidency University , Bangalore , India</td>
+                    <td>8.13</td>
+                    <td>not yet finished</td>
+                </tr>
+            </table>
+         
+            <h3>Technical Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Programming Skills:</span> Python, Java, C , C++ and learning HTML</li></ul>
+            </p>
+            <h3>Personal Information:</h3>
+            <p>
+            <ul>
+                <li>
+                A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
+                <li>
+                <span id="course-name">Languages Known:</span>English, Hindi, Telugu and Kannada</li>
+                <li>
+                <span id="course-name">Hobbies:</span>reading novels and IT related books / magazines, playing Carrom, listening music, surfing Internet, self-learning through e-courses.</li> </ul>
+            </p>
+           
+            <h3>Declaration</h3>
+            <p>
+            I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
